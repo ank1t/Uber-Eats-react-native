@@ -1,4 +1,4 @@
-# Uber-Eats-react-native 
+# Uber-Eats-react-native - [App Demo](./demo.mp4)
 
 Learning react native by trying to mimic the Uber eats app. App features search functionality to filter restaurants either by delivery or pickup. A Google places powered searchbar lets the user select a city as well.
 
